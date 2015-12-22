@@ -1,5 +1,6 @@
 ﻿/******************************************************************************************
- * This is a file that tests various the get a better understanding of how C# works. 
+ * This is a file that runs various tests to get a better understanding of how C# works 
+ * (ie if you pass an object, will any changes be visible outside the function call? What about List<int>?).
  * It also serves as a reference for working code snippets of various functionality of C# 
  * (ie async and lambda functions)
 ******************************************************************************************/
