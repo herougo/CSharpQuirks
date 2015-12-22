@@ -1,0 +1,6 @@
+C:\Users\henri\Documents\GitHub\CSharpQuirks\CSharpQuirks\CSharpQuirks\bin\Debug\CSharpQuirks.exe.config
+C:\Users\henri\Documents\GitHub\CSharpQuirks\CSharpQuirks\CSharpQuirks\bin\Debug\CSharpQuirks.exe
+C:\Users\henri\Documents\GitHub\CSharpQuirks\CSharpQuirks\CSharpQuirks\bin\Debug\CSharpQuirks.pdb
+C:\Users\henri\Documents\GitHub\CSharpQuirks\CSharpQuirks\CSharpQuirks\obj\Debug\CSharpQuirks.csprojResolveAssemblyReference.cache
+C:\Users\henri\Documents\GitHub\CSharpQuirks\CSharpQuirks\CSharpQuirks\obj\Debug\CSharpQuirks.exe
+C:\Users\henri\Documents\GitHub\CSharpQuirks\CSharpQuirks\CSharpQuirks\obj\Debug\CSharpQuirks.pdb
